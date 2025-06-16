@@ -1,4 +1,7 @@
 ## Hi there 👋 
+
+<img src="https://github-readme-stats.vercel.app/api?username=Deniscf&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Deniscf's GitHub Stats" />
+
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -17,3 +20,7 @@ Atualmente faço a parte do Front End e estou aprimorando meus conhecimentos par
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 
 <a>"https://www.linkedin.com/in/denis-cf"</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniscf&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Deniscf's GitHub Stats" />
+
+
