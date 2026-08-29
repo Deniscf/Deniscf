@@ -10,13 +10,14 @@
 <br></br>
 
 
-<span style="color: red"</span>
+<span style="color: red"
 
 Meu objetivo é me tornar um desenvolvedor web competente e criativo, capaz de criar soluções digitais para diversos problemas e desafios, além de ter retomado a faculdade de Análise e Desenvolvimento de Sistemas, Uninove.
 <br></br>
 Atualmente faço a parte do Front End e estou aprimorando meus conhecimentos para agregar a parte do Back End, para me tornar um desenvolvedor FullStack, gosto muito de tecnologias e onde ela pode me levar.
 <br></br>
-
+</span>
+<br></br>
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 
 <a>"https://www.linkedin.com/in/denis-cf"</a>
