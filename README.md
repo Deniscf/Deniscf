@@ -1,9 +1,5 @@
 ## Hi there 👋 
 
-[![Estatísticas do GitHub](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -14,7 +10,7 @@
 <br></br>
 </div>
 
-Meu objetivo é me tornar um desenvolvedor web competente e criativo, capaz de criar soluções digitais para diversos problemas e desafios.
+Meu objetivo é me tornar um desenvolvedor web competente e criativo, capaz de criar soluções digitais para diversos problemas e desafios, além de ter retomado a faculdade de Análise e Desenvolvimento de Sistemas, Uninove.
 <br></br>
 Atualmente faço a parte do Front End e estou aprimorando meus conhecimentos para agregar a parte do Back End, para me tornar um desenvolvedor FullStack, gosto muito de tecnologias e onde ela pode me levar.
 <br></br>
