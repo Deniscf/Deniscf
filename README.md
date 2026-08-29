@@ -1,6 +1,8 @@
 ## Hi there 👋 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deniscf&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Deniscf's GitHub Stats" />
+[![Estatísticas do GitHub](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
