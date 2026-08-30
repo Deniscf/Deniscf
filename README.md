@@ -9,9 +9,11 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"/>
 <br></br>
 
+<text color:"red";>
 Meu objetivo é me tornar um desenvolvedor web competente e criativo, capaz de criar soluções digitais para diversos problemas e desafios, além de ter retomado a faculdade de Análise e Desenvolvimento de Sistemas, Uninove.
 <br></br>
 Atualmente faço a parte do Front End e estou aprimorando meus conhecimentos para agregar a parte do Back End, para me tornar um desenvolvedor FullStack, gosto muito de tecnologias e onde ela pode me levar.
+</text>
 <br></br>
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 
